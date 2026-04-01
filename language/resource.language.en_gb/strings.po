@@ -989,7 +989,7 @@ msgid "Decoder"
 msgstr ""
 
 msgctxt "#31906"
-msgid "VS10 engine"
+msgid "VS10 | CMv4 | VP"
 msgstr ""
 
 msgctxt "#31907"

@@ -789,8 +789,8 @@ msgid "Decoder"
 msgstr "Decoder"
 
 msgctxt "#31906"
-msgid "VS10 engine"
-msgstr "VS10-Engine"
+msgid "VS10 | CMv4 | VP"
+msgstr "VS10 | CMv4 | VP"
 
 msgctxt "#31907"
 msgid "More"
