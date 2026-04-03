@@ -789,12 +789,12 @@ msgid "Decoder"
 msgstr "Decoder"
 
 msgctxt "#31906"
-msgid "VS10 | CMv4 | VP"
-msgstr "VS10 | CMv4 | VP"
+msgid "VS10 | VP mode"
+msgstr "VS10 | VP-Modus"
 
 msgctxt "#31907"
-msgid "More"
-msgstr "Mehr"
+msgid "Processing"
+msgstr "Verarbeitung"
 
 msgctxt "#31908"
 msgid "Video queue"
@@ -849,8 +849,8 @@ msgid "Enhancement Layer"
 msgstr "Enhancement Layer"
 
 msgctxt "#31921"
-msgid "Enhancement Layer Type"
-msgstr "Enhancement Layer Typ"
+msgid "CMv2.9 to CMv4.0"
+msgstr "CMv2.9 zu CMv4.0"
 
 msgctxt "#31922"
 msgid "Metadata"
@@ -913,8 +913,8 @@ msgid "AML FPS"
 msgstr "AML FPS"
 
 msgctxt "#31937"
-msgid "DV Configuration"
-msgstr "DV Konfiguration"
+msgid "Dolby Vision"
+msgstr "Dolby Vision"
 
 msgctxt "#31938"
 msgid "DV Levels Metadata"
